@@ -140,7 +140,7 @@
                 <param name="ios-package" value="WTWikitudePlugin"/>
             </feature>
         </config-file>
-   
+
         <config-file target="*-Info.plist" parent="WTCordovaPluginLocalPathPrefix">
             <string>phonegapdevapp</string>
         </config-file>
