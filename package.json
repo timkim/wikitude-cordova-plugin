@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wikitude/wikitude-phonegap.git"
+    "url": "git+https://github.com/timkim/wikitude-cordova-plugin.git"
   },
   "keywords": [
     "AR",
