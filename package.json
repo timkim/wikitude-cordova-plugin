@@ -1,6 +1,6 @@
 {
   "name": "wikitude-plugin-phonegap-dev-app",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Augmented Reality Wikitude SDK Plugin for the PhoneGap Developer App",
   "cordova": {
     "id": "",
